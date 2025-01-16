@@ -27,7 +27,7 @@ if (response_01 == "WE") ;
 }
 
 
-static void WebScrape()
+static void WebScrape(string line, string stop_id, string service_operator)
 {
 
 
