@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M8UNHrqwlZs=",
+  "dgSpecHash": "bGDeZfsK+kc=",
   "success": true,
   "projectFilePath": "C:\\Users\\mfetu\\source\\repos\\BKMScheduleScraper\\BKMScheduleScraper\\BKMScheduleScraper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mfetu\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
   "logs": []
 }
