@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BKMScheduleScraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58fa816815801577f574a191df39ed88a38a6455")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac5cf7c32229a81744b431428233eb50db41b2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BKMScheduleScraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BKMScheduleScraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
